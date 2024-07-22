@@ -1,4 +1,4 @@
-Tableau-Projects
+Projects
   
 Learnt Data Visualization and Data Analytics with Tableau by solving below mentioned Realistic Analytics Projects.
 
